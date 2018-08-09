@@ -7,7 +7,9 @@ body{
 }
 
 header{
-background-color:DodgerBlue;
+  text-align: center;
+  
+  background-color:DodgerBlue;
 }
 
 nav{
@@ -18,10 +20,15 @@ section{
   background-color:DodgerBlue;
 }
 
-aside{
-background-color:DodgerBlue;
+article{
+  text-align: center;
 }
 
-footer{
-background-color:DodgerBlue;
+aside{
+  background-color:DodgerBlue;
+}
+
+footer{  
+  text-align: center;
+  background-color:DodgerBlue;
 }

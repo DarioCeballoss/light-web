@@ -1,0 +1,23 @@
+
+@media only screen and (max-width: 600px) {
+    /* For desktop: */
+  
+  section{
+  grid-column: 3 / -1;
+  grid-template-columns: repeat(2, 1fr);
+  }
+  article{
+  
+  text-align: center;
+  }
+  aside{
+  grid-column: 1 / -1;
+  }
+  
+  body {
+    background-color: orange;
+  }
+
+    
+    
+  }
