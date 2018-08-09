@@ -1,0 +1,27 @@
+body{
+  
+  background-color: #c7ab5c;
+  font-size: large;
+  padding:10px;
+ 
+}
+
+header{
+background-color:DodgerBlue;
+}
+
+nav{
+  background-color:DodgerBlue;
+}
+
+section{
+  background-color:DodgerBlue;
+}
+
+aside{
+background-color:DodgerBlue;
+}
+
+footer{
+background-color:DodgerBlue;
+}
