@@ -1,0 +1,36 @@
+body{
+  background-color: #c7ab5c;
+  font-size: large;
+  padding:10px;
+}
+
+header{
+  text-align: center;
+  background-color:DodgerBlue;
+}
+
+nav{
+  background-color:DodgerBlue;
+}
+
+section{
+  background-color:DodgerBlue;
+}
+
+article{
+  text-align: center;
+}
+
+aside{
+  background-color:DodgerBlue;
+  padding:5%;
+}
+
+footer{  
+  text-align: center;
+  background-color:DodgerBlue;
+}
+
+img{
+  max-width: 100%;
+}
