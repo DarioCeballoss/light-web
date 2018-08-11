@@ -1,14 +1,11 @@
 body{
-  
   background-color: #c7ab5c;
   font-size: large;
   padding:10px;
- 
 }
 
 header{
   text-align: center;
-  
   background-color:DodgerBlue;
 }
 
@@ -26,9 +23,14 @@ article{
 
 aside{
   background-color:DodgerBlue;
+  padding:5%;
 }
 
 footer{  
   text-align: center;
   background-color:DodgerBlue;
+}
+
+img{
+  max-width: 100%;
 }
